@@ -1,0 +1,124 @@
+Mono path[0] = 'C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Rollerball_Data/Managed'
+Mono path[1] = 'C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Rollerball_Data/Mono'
+Mono config path = 'C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Rollerball_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Rollerball_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55247
+Multi-casting "[IP] 192.168.224.101 [Port] 55247 [Flags] 2 [Guid] 1194291657 [EditorId] 3299678396 [Version] 1048832 [Id] WindowsPlayer(Lenovo) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.224.101:55247]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 21.21.13.6909]
+    Renderer: NVIDIA GeForce 820M
+    Vendor:   NVIDIA
+    VRAM:     1999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Rollerball_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.285527 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2c40 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'ExplosionMobile') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.721144 ms
+System memory in use before: 40.9 MB.
+System memory in use after: 40.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1255.
+Total: 0.939983 ms (FindLiveObjects: 0.080826 ms CreateObjectMapping: 0.032501 ms MarkObjects: 0.426798 ms  DeleteObjects: 0.392158 ms)
+
+HELP
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+enemy:OnTriggerEnter(Collider) (at C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Assets\enemy.cs:13)
+ 
+(Filename: C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Assets/enemy.cs Line: 13)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:54)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:143)
+enemy:OnTriggerEnter(Collider) (at C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Assets\enemy.cs:14)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1656] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 54)
+
+The referenced script on this Behaviour (Game Object 'ExplosionMobile') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:54)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:143)
+enemy:OnTriggerEnter(Collider) (at C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Assets\enemy.cs:14)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1656] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 54)
+
+The referenced script on this Behaviour (Game Object 'ExplosionMobile') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:54)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:143)
+enemy:OnTriggerEnter(Collider) (at C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Assets\enemy.cs:14)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1656] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 54)
+
+HELP
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+enemy:OnTriggerEnter(Collider) (at C:\Users\Karry\Desktop\TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777\Assets\enemy.cs:18)
+ 
+(Filename: C:/Users/Karry/Desktop/TeamProBALL-7ae43d9d8c214f28b0e3360bc4f28f0f7945e777/Assets/enemy.cs Line: 18)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.245173 ms
+System memory in use before: 39.0 MB.
+System memory in use after: 30.5 MB.
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 1.941120 ms (FindLiveObjects: 0.025231 ms CreateObjectMapping: 0.011974 ms MarkObjects: 0.244617 ms  DeleteObjects: 1.657158 ms)
+
+The referenced script on this Behaviour (Game Object 'ExplosionMobile') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.669705 ms
+System memory in use before: 41.1 MB.
+System memory in use after: 41.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1284.
+Total: 0.932712 ms (FindLiveObjects: 0.067996 ms CreateObjectMapping: 0.026942 ms MarkObjects: 0.435779 ms  DeleteObjects: 0.400711 ms)
+
